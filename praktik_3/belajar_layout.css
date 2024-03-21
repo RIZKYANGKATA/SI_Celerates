@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    background-color: blueviolet;
+    padding: 16px;
+}
+
+footer{
+    background-color: aqua;
+    padding: 16px;
+}
+
+main{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    
+}
+
+aside{
+    background-color:darkmagenta;
+    align-self: stretch;
+    padding: 16px;
+}
+
+section{
+    background-color: brown;
+    padding: 16px;
+}
+
+article{
+    background-color: chartreuse;
+    padding: 16px;
+}
+
+ul{
+    list-style: none;
+}
