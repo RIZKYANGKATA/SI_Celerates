@@ -7,11 +7,13 @@
 header{
     background-color: blueviolet;
     padding: 16px;
+    text-align: center;
 }
 
 footer{
     background-color: aqua;
     padding: 16px;
+    text-align: center;
 }
 
 main{
